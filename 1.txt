@@ -1,0 +1,7 @@
+O trecho de código apresenta um laço de repetição "enquanto" que irá executar enquanto a variável K for menor que a variável INDICE. O objetivo do laço é somar os valores de 1 a INDICE.
+
+No início do código, são declaradas três variáveis: INDICE é inicializada com o valor 13, SOMA é inicializada com o valor 0 e K é inicializada com o valor 0.
+
+Dentro do laço, na primeira iteração, o valor de K será incrementado de 0 para 1 e, em seguida, SOMA será incrementada de 0 para 1. Na segunda iteração, K será incrementado de 1 para 2 e SOMA será incrementada de 1 para 3. Esse processo se repetirá até que K chegue ao valor de INDICE (13), momento em que o laço de repetição será interrompido.
+
+Assim, ao final do processamento, o valor da variável SOMA será 91, que é a soma dos valores de 1 a 13.

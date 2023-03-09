@@ -1,0 +1,25 @@
+Para resolver esse problema, precisamos calcular a distância percorrida por cada veículo até o ponto em que eles se encontram.
+
+Sabemos que a distância entre as duas cidades é de 100 km e que os veículos estão se movendo em direções opostas. 
+Portanto, a distância percorrida pelo carro e pelo caminhão até o ponto de encontro será igual a 50 km cada.
+
+O carro está se movendo a uma velocidade constante de 110 km/h, então ele percorrerá esses 50 km em:
+
+t = d/v
+t = 50/110
+t = 0,4545 horas = 27,27 minutos
+
+O caminhão está se movendo a uma velocidade constante de 80 km/h, mas leva 5 minutos a mais em cada um dos dois pedágios. Portanto, sua velocidade efetiva é de:
+
+v = d/t
+v = 100/((50/80) + 2*(5/60))
+v = 77,42 km/h
+
+Assim, o caminhão levará:
+
+t = d/v
+t = 50/77,42
+t = 0,645 horas = 38,7 minutos
+
+Portanto, o caminhão estará mais próximo da cidade de Ribeirão Preto no momento em que eles se encontrarem na rodovia, já que o caminhão levará mais tempo para percorrer a mesma distância. 
+O carro estará mais próximo da cidade de Franca no ponto de encontro
